@@ -1,6 +1,8 @@
 # kardl
 Estimation of linear and non-linear ARDL models Use kardl With (In) R Software
 
+https://www.youtube.com/watch?v=gs9GFWbAtDo
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
